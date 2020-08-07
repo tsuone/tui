@@ -4,8 +4,13 @@
 
 
 tUI.lua
+
+## Based on oBar code by Smaltore
+## https://www.wowinterface.com/downloads/author-268329.html
 tBar.lua
 tCastBarTimer.lua
 tCastBar.lua
+
 ## Port of Class Portraits by Schaka with minor changes.
+## https://github.com/Schaka/ClassPortraits
 tClassPortraits.lua
