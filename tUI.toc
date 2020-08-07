@@ -1,0 +1,11 @@
+## Interface: 80001
+## Title: tUI (Internal)
+## Author: tsu
+
+
+tUI.lua
+tBar.lua
+tCastBarTimer.lua
+tCastBar.lua
+## Port of Class Portraits by Schaka with minor changes.
+tClassPortraits.lua
